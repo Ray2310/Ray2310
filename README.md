@@ -5,6 +5,7 @@
 - 💬 本人目前是一名大三本科生
 - 📫 How to reach me: mail: 1326507725@qq.com
 - 😄 Pronouns: 喜欢安静下来，去做自己该做的事，而不是让内心的烦躁、焦虑，毁掉本就不多的热情和定力。
+-  ⚡ Fun fact: 如果你想用OpenAI的服务， 欢迎访问的我的OpenAI项目（ [http://wclspace.cn](http://wclspace.cn/) ）
 <!--
 **Ray2310/Ray2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
