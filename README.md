@@ -2,7 +2,6 @@
  
 - 🌱 a Persistent learner 
 - 🤔 
-- 💬 本人目前是一名大三本科生
 - 📫 How to reach me: mail: rayce.lei@foxmail.com
 - 😄 Pronouns: 喜欢安静下来，去做自己该做的事，而不是让内心的烦躁、焦虑，毁掉本就不多的热情和定力。
 <!--
